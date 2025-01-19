@@ -1,4 +1,4 @@
-# Power Load Forecasting and Analysis
+# Multi-Time Scale Solar Radiation Prediction Technology  Based on Neural Network
 
 This repository contains projects and implementations related to power load forecasting and analysis using machine learning and time-series models. It includes synthetic data generation, model implementations (ARIMA, LSTM, GRU, CNN, and FNN), and in-depth analysis of their performance.
 
